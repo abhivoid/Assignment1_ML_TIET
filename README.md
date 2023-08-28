@@ -1,5 +1,6 @@
 # Assignment1_ML_TIET
 Based on NumPy
+
 Q1: Questions on Basic NumPy Array
 (a) Reverse the NumPy array: arr = np.array([1, 2, 3, 6, 4, 5])
 (b) Flatten the NumPy arr: array1 = np.array([[1, 2, 3], [2, 4, 5], [1, 2, 3]]) using any two
@@ -27,6 +28,9 @@ ii. p = [[1, 2], [2, 3], [4, 5]]
 q = [[4, 5, 1], [6, 7, 2]]
 (h) For the matrices: x = np.array([[2, 3, 4], [3, 2, 9]]); y = np.array([[1, 5, 0], [5, 10, 3]]),
 find inner, outer and cartesian product?
+
+
+
 Q2: Based on NumPy Mathematics and Statistics
 (a) For the array: array = np.array([[1, -2, 3],[-4, 5, -6]])
 i. Find element-wise absolute value
